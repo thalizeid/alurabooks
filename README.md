@@ -1,3 +1,4 @@
+<img alt="Static Badge" src="https://img.shields.io/badge/STATUS-FINALIZADO-GREEN">
 <h1 align="center"> Alurabooks </h1>
 <p align="center">Projeto feito durante o curso de responsividade da alura</p>
 
