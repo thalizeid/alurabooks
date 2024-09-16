@@ -1,6 +1,6 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/STATUS-FINALIZADO-GREEN">
 <h1 align="center">Alurabooks</h1>
-<p align="center">Projeto feito durante o curso de responsividade da Alura</p>
+<p align="center">Projeto desenvolvido em HTML e CSS Mobile First/p>
 
 <h2>Versão para desktop</h2>
 <p align="center">
